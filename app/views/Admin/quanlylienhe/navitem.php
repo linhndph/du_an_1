@@ -12,10 +12,6 @@
         <p>Danh sách liên hệ</p>
       </a>
     </li>
-    <li class="nav-item">
-      <a href="AdminController.php?act=xoalienhe" class="nav-link">
-        <p>Xóa</p>
-      </a>
-    </li>
+
   </ul>
 </li>

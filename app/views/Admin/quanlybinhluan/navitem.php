@@ -12,10 +12,6 @@
         <p>Danh sách bình luận</p>
       </a>
     </li>
-    <li class="nav-item">
-      <a href="AdminController.php?act=xoabinhluan" class="nav-link">
-        <p>Xóa</p>
-      </a>
-    </li>
+
   </ul>
 </li>

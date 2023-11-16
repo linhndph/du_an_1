@@ -17,15 +17,6 @@
         <p>Thêm ca khuyến mãi</p>
       </a>
     </li>
-    <li class="nav-item">
-      <a href="AdminController.php?act=suakhuyenmai" class="nav-link">
-        <p>sửa ca khuyến mãi</p>
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="AdminController.php?act=xoakhuyenmai" class="nav-link">
-        <p>Xóa ca khuyến mãi</p>
-      </a>
-    </li>
+
   </ul>
 </li>

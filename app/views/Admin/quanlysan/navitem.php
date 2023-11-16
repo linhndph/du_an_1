@@ -19,16 +19,6 @@
                   <p>Thêm sân </p>
                 </a>
               </li>
-              <li class="nav-item">
-                <a href="AdminController.php?act=suasan" class="nav-link">
-                  <p>Sửa sân </p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="AdminController.php?act=xoasan" class="nav-link">
-                  
-                  <p>Xóa sân </p>
-                </a>
-              </li>
+
             </ul>
           </li>

@@ -29,35 +29,35 @@ include "../views/Admin/quanlytaikhoan/taikhoan.php";
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
 <?php
-include "../views/Admin/quanlydanhmuc/list.php";
+include "../views/Admin/quanlydanhmuc/navitem.php";
 ?>
 <?php
-include "../views/Admin/quanlydatsan/list.php";
+include "../views/Admin/quanlydatsan/navitem.php";
 ?>
 <?php
-include "../views/Admin/quanlysan/list.php";
+include "../views/Admin/quanlysan/navitem.php";
 ?>
 <?php
-include "../views/Admin/quanlycasan/list.php";
+include "../views/Admin/quanlycasan/navitem.php";
 ?>
 <?php
-include "../views/Admin/quanlykhuyenmai/list.php";
-?>
-
-<?php
-include "../views/Admin/quanlybienthe/list.php";
+include "../views/Admin/quanlykhuyenmai/navitem.php";
 ?>
 
 <?php
-include "../views/Admin/quanlybinhluan/list.php";
+include "../views/Admin/quanlybienthe/navitem.php";
 ?>
 
 <?php
-include "../views/Admin/quanlylienhe/list.php";
+include "../views/Admin/quanlybinhluan/navitem.php";
 ?>
 
 <?php
-include "../views/Admin/quanlytintuc/list.php";
+include "../views/Admin/quanlylienhe/navitem.php";
+?>
+
+<?php
+include "../views/Admin/quanlytintuc/navitem.php";
 ?>
 
 

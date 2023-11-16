@@ -17,15 +17,6 @@
                   <p>Thêm ca sân</p>
                 </a>
               </li>
-              <li class="nav-item">
-                <a href="AdminController.php?act=suacasan" class="nav-link">
-                  <p>sửa ca sân</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="AdminController.php?act=xoacasan" class="nav-link">
-                  <p>Xóa ca sân</p>
-                </a>
-              </li>
+
             </ul>
           </li>
