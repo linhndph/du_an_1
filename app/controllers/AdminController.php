@@ -30,7 +30,7 @@ if (isset($_GET['act']) && ($_GET['act']!= "")) {
             break;
 
         case 'xoabienthe':
-                include '../views/Admin/quanlybienthe/danhsachbienthe.php';
+                include '../views/Admin/quanlybienthe/delete.php';
                 break;
 
         //Quản lý bình luận
@@ -56,7 +56,7 @@ if (isset($_GET['act']) && ($_GET['act']!= "")) {
             break;
 
         case 'xoacasan':
-            include '../views/Admin/quanlycasan/danhsachcasan.php';
+            include '../views/Admin/quanlycasan/delete.php';
             break;
         
         //Quản lý danh mục
@@ -80,6 +80,12 @@ if (isset($_GET['act']) && ($_GET['act']!= "")) {
         case 'dsdatsan':
             include '../views/Admin/quanlydatsan/danhsachdatsan.php';
             break;
+        case 'suadsdatsan':
+                include '../views/Admin/quanlydatsan/update.php';
+                break;
+        case 'xoadsdatsan':
+                    include '../views/Admin/quanlydatsan/delete.php';
+                    break;
 
         //Quản lý khuyến mãi
         case 'dskhuyenmai':
